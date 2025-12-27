@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "BinaryDosage"]
+	path = BinaryDosage
+	url = https://github.com/cran/BinaryDosage
+[submodule "GxEScanR"]
+	path = GxEScanR
+	url = https://github.com/cran/GxEScanR
