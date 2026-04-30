@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BinaryDosage"]
+	path = BinaryDosage
+	url = https://github.com/cran/BinaryDosage
 [submodule "lsReg"]
 	path = lsReg
 	url = https://github.com/cran/lsReg
