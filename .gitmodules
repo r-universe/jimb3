@@ -5,6 +5,9 @@
 [submodule "BinaryDosage"]
 	path = BinaryDosage
 	url = https://github.com/cran/BinaryDosage
+[submodule "GxEScanR"]
+	path = GxEScanR
+	url = https://github.com/cran/GxEScanR
 [submodule "lsReg"]
 	path = lsReg
 	url = https://github.com/cran/lsReg
